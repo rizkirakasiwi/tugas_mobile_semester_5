@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TugasMobile</string>
+    <array name="image_icon">
+        <item>@drawable/tidur</item>
+        <item>@drawable/alarm</item>
+        <item>@drawable/duduk</item>
+        <item>@drawable/mobil</item>
+        <item>@drawable/musik</item>
+        <item>@drawable/travel</item>
+        <item>@drawable/cuaca</item>
+        <item>@drawable/privasi</item>
+    </array>
+    <string-array name="nama_icon">
+        <item>Tidur</item>
+        <item>Alarm</item>
+        <item>Istirahat</item>
+        <item>Holiday</item>
+        <item>Musik</item>
+        <item>Travel</item>
+        <item>Cuaca</item>
+        <item>Privasi</item>
+    </string-array>
+</resources>
